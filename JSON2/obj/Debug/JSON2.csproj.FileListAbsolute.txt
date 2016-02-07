@@ -1,0 +1,9 @@
+c:\users\максим\documents\visual studio 2015\Projects\JSON2\JSON2\bin\Debug\JSON2.exe.config
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\JSON2\JSON2\bin\Debug\JSON2.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\JSON2\JSON2\bin\Debug\JSON2.pdb
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\JSON2\JSON2\obj\Debug\JSON2.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\JSON2\JSON2\obj\Debug\JSON2.Form1.resources
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\JSON2\JSON2\obj\Debug\JSON2.Properties.Resources.resources
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\JSON2\JSON2\obj\Debug\JSON2.csproj.GenerateResource.Cache
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\JSON2\JSON2\obj\Debug\JSON2.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\JSON2\JSON2\obj\Debug\JSON2.pdb
